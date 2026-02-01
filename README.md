@@ -1,1 +1,1 @@
-# -MCP-powered-Agentic-RAG
+# MCP-powered-Agentic-RAG
