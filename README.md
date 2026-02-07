@@ -2,6 +2,9 @@
 
 A local, modular Retrieval-Augmented Generation (RAG) system using the Model Context Protocol (MCP) to connect an LLM to external tools like vector databases and document loaders.
 
+
+<img src="/images/mcp-agentic-rag.gif" alt="description" style="width:100%; height:auto;" />
+
 ## Overview
 
 This project implements an agentic RAG system that:
@@ -301,3 +304,4 @@ Contributions are welcome! Please:
 - [ChromaDB Documentation](https://docs.trychroma.com/)
 - [LangChain RAG Guide](https://python.langchain.com/docs/use_cases/question_answering/)
 - [FastAPI Documentation](https://fastapi.tiangolo.com/)
+
